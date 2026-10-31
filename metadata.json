@@ -1,0 +1,6 @@
+{
+  "name": "PlayCoupons",
+  "description": "Browse, purchase discounted Google Play gift cards and game coupons, earn daily rewards, and redeem promo codes directly on Google Play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
